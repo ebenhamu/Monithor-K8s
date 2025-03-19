@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 # FE deployment
 kubectl apply -f fe.yaml
 
