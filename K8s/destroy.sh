@@ -1,3 +1,4 @@
+#!/bin/bash 
 echo "***************** Get all *********************"
 kubectl get all
 echo "*************** Destroying ********************"
